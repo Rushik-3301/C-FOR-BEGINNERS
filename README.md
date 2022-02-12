@@ -8,3 +8,29 @@
 # FIRST CODE
 #INCLUDE <IOSTREAM.H>
 #INCLUDE<CONIO.H>
+print("hello")
+# secound code
+#INCLUDE <IOSTREAM.H>
+#INCLUDE<CONIO.H>
+a=[10,20,30,40,50]
+print("a")
+# third code
+#INCLUDE <IOSTREAM.H>
+#INCLUDE<CONIO.H>
+a=10.5
+b=500
+c=Rushik
+print("a")
+print("b")
+print("c")
+# fourth code
+#INCLUDE <IOSTREAM.H>
+#INCLUDE<CONIO.H>
+a=100
+b=50
+if a > b 
+print("it is greater")
+else:
+     b>a
+     print("b is greater then a
+     ")
